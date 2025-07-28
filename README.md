@@ -27,4 +27,3 @@ The project includes:
 ---
 
 Feel free to fork or browse for reference, but don't expect it to work well in its current state.
-```
